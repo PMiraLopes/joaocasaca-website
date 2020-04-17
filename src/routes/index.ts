@@ -1,5 +1,6 @@
 import { lazy } from 'react'
 import { RouteProps } from 'react-router-dom'
+import ROUTES from '../enums/routes'
 
 const lazyRoutes = {
   Homepage: lazy(() => import(/* webpackChunkName: "Homepage" */ './Homepage')),
@@ -10,17 +11,17 @@ const lazyRoutes = {
 const routes: RouteProps[] = [
   {
     component: lazyRoutes.Homepage,
-    path: '/',
+    path: ROUTES.homepage,
     exact: true,
   },
   {
     component: lazyRoutes.Resume,
-    path: '/resume',
+    path: ROUTES.resume,
     exact: true,
   },
   {
     component: lazyRoutes.Project,
-    path: '/project/:name',
+    path: ROUTES.project,
     exact: true,
   },
   {
