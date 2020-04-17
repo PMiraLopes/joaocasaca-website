@@ -1,0 +1,1 @@
+{"version":3,"sources":["routes/Project/index.tsx"],"names":["Project"],"mappings":"+HAAA,2BAMeA,UAJW,WACxB,OAAO","file":"static/js/Project.5d15178c.chunk.js","sourcesContent":["import React from 'react'\n\nconst Project: React.FC = () => {\n  return <section>Project</section>\n}\n\nexport default Project\n"],"sourceRoot":""}

@@ -1,0 +1,2 @@
+(this["webpackJsonpjoaocasaca-website"]=this["webpackJsonpjoaocasaca-website"]||[]).push([[3],{32:function(e,a,s){"use strict";s.r(a);var t=s(0),c=s.n(t);a.default=function(){return c.a.createElement("section",null,"Resume")}}}]);
+//# sourceMappingURL=Resume.422fffaa.chunk.js.map

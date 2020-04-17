@@ -1,0 +1,2 @@
+(this["webpackJsonpjoaocasaca-website"]=this["webpackJsonpjoaocasaca-website"]||[]).push([[2],{31:function(e,a,t){"use strict";t.r(a);var c=t(0),s=t.n(c);a.default=function(){return s.a.createElement("section",null,"Project")}}}]);
+//# sourceMappingURL=Project.5d15178c.chunk.js.map

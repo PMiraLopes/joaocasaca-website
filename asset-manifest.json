@@ -1,32 +1,32 @@
 {
   "files": {
     "Homepage.css": "/joaocasaca-website/static/css/Homepage.c184d228.chunk.css",
-    "Homepage.js": "/joaocasaca-website/static/js/Homepage.221e785a.chunk.js",
-    "Homepage.js.map": "/joaocasaca-website/static/js/Homepage.221e785a.chunk.js.map",
-    "NotFound.js": "/joaocasaca-website/static/js/NotFound.4ef49475.chunk.js",
-    "NotFound.js.map": "/joaocasaca-website/static/js/NotFound.4ef49475.chunk.js.map",
-    "Project.js": "/joaocasaca-website/static/js/Project.fd981686.chunk.js",
-    "Project.js.map": "/joaocasaca-website/static/js/Project.fd981686.chunk.js.map",
-    "Resume.js": "/joaocasaca-website/static/js/Resume.5c246b10.chunk.js",
-    "Resume.js.map": "/joaocasaca-website/static/js/Resume.5c246b10.chunk.js.map",
+    "Homepage.js": "/joaocasaca-website/static/js/Homepage.0ebc0c54.chunk.js",
+    "Homepage.js.map": "/joaocasaca-website/static/js/Homepage.0ebc0c54.chunk.js.map",
+    "NotFound.js": "/joaocasaca-website/static/js/NotFound.0c2a0f8b.chunk.js",
+    "NotFound.js.map": "/joaocasaca-website/static/js/NotFound.0c2a0f8b.chunk.js.map",
+    "Project.js": "/joaocasaca-website/static/js/Project.5d15178c.chunk.js",
+    "Project.js.map": "/joaocasaca-website/static/js/Project.5d15178c.chunk.js.map",
+    "Resume.js": "/joaocasaca-website/static/js/Resume.422fffaa.chunk.js",
+    "Resume.js.map": "/joaocasaca-website/static/js/Resume.422fffaa.chunk.js.map",
     "main.css": "/joaocasaca-website/static/css/main.d1b05096.chunk.css",
-    "main.js": "/joaocasaca-website/static/js/main.043c066d.chunk.js",
-    "main.js.map": "/joaocasaca-website/static/js/main.043c066d.chunk.js.map",
-    "runtime-main.js": "/joaocasaca-website/static/js/runtime-main.10563702.js",
-    "runtime-main.js.map": "/joaocasaca-website/static/js/runtime-main.10563702.js.map",
-    "static/js/6.def59c7f.chunk.js": "/joaocasaca-website/static/js/6.def59c7f.chunk.js",
-    "static/js/6.def59c7f.chunk.js.map": "/joaocasaca-website/static/js/6.def59c7f.chunk.js.map",
+    "main.js": "/joaocasaca-website/static/js/main.9096b5ee.chunk.js",
+    "main.js.map": "/joaocasaca-website/static/js/main.9096b5ee.chunk.js.map",
+    "runtime-main.js": "/joaocasaca-website/static/js/runtime-main.35daf4e2.js",
+    "runtime-main.js.map": "/joaocasaca-website/static/js/runtime-main.35daf4e2.js.map",
+    "static/js/6.de5384a8.chunk.js": "/joaocasaca-website/static/js/6.de5384a8.chunk.js",
+    "static/js/6.de5384a8.chunk.js.map": "/joaocasaca-website/static/js/6.de5384a8.chunk.js.map",
     "index.html": "/joaocasaca-website/index.html",
-    "precache-manifest.ceba7a3a999208e3ef1227aeda9f7c33.js": "/joaocasaca-website/precache-manifest.ceba7a3a999208e3ef1227aeda9f7c33.js",
+    "precache-manifest.13c5e75c49f1282c02d3a4e8e8085233.js": "/joaocasaca-website/precache-manifest.13c5e75c49f1282c02d3a4e8e8085233.js",
     "service-worker.js": "/joaocasaca-website/service-worker.js",
     "static/css/Homepage.c184d228.chunk.css.map": "/joaocasaca-website/static/css/Homepage.c184d228.chunk.css.map",
     "static/css/main.d1b05096.chunk.css.map": "/joaocasaca-website/static/css/main.d1b05096.chunk.css.map",
-    "static/js/6.def59c7f.chunk.js.LICENSE.txt": "/joaocasaca-website/static/js/6.def59c7f.chunk.js.LICENSE.txt"
+    "static/js/6.de5384a8.chunk.js.LICENSE.txt": "/joaocasaca-website/static/js/6.de5384a8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.10563702.js",
-    "static/js/6.def59c7f.chunk.js",
+    "static/js/runtime-main.35daf4e2.js",
+    "static/js/6.de5384a8.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.043c066d.chunk.js"
+    "static/js/main.9096b5ee.chunk.js"
   ]
 }
