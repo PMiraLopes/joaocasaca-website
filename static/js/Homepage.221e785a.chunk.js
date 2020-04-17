@@ -1,0 +1,2 @@
+(this["webpackJsonpjoaocasaca-website"]=this["webpackJsonpjoaocasaca-website"]||[]).push([[0],{28:function(e,a,t){e.exports={"a-homepage__title":"styles_a-homepage__title__3W1Xj"}},29:function(e,a,t){"use strict";t.r(a);var s=t(0),o=t.n(s),c=t(28),n=t.n(c);a.default=function(){return o.a.createElement("section",{className:n.a["a-homepage"]},o.a.createElement("h1",{className:n.a["a-homepage__title"]},"Homepage"))}}}]);
+//# sourceMappingURL=Homepage.221e785a.chunk.js.map

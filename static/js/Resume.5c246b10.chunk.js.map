@@ -1,0 +1,1 @@
+{"version":3,"sources":["routes/Resume/index.tsx"],"names":["Resume"],"mappings":"+HAAA,2BAMeA,UAJU,WACvB,OAAO","file":"static/js/Resume.5c246b10.chunk.js","sourcesContent":["import React from 'react'\n\nconst Resume: React.FC = () => {\n  return <section>Resume</section>\n}\n\nexport default Resume\n"],"sourceRoot":""}
