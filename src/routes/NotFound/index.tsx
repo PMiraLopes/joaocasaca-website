@@ -1,6 +1,7 @@
 import React from 'react'
-import {useHistory} from 'react-router-dom'
+import { useHistory } from 'react-router-dom'
 import ROUTES from '../../enums/routes'
+
 const NotFound: React.FC = () => {
   const history = useHistory()
   return (
