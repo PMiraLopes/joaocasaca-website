@@ -17,12 +17,12 @@
     "i18next-browser-languagedetector": "^4.0.1",
     "i18next-http-backend": "^1.0.3",
     "i18next-xhr-backend": "^3.2.2",
-    "node-sass": "^4.13.1",
+    "node-sass": "^9.0.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-i18next": "^11.3.4",
     "react-router-dom": "^5.1.2",
-    "react-scripts": "3.4.1",
+    "react-scripts": "5.0.1",
     "typescript": "^3.8.3"
   },
   "scripts": {
